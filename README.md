@@ -3,7 +3,7 @@
 ### By Sakshi Pradhan - BCA Fresher | Data Analyst Aspirant | Greater Rajkot Area
 ### Project 3 - Different from Project 1 & 2
 
-**LinkedIn:** [Sakshi Pradhan](https://www.linkedin.com/in/sakshi-pradhan)  
+**LinkedIn:** [Sakshi Pradhan](https://www.linkedin.com/in/sakshi-pradhan-778a6b31a)
 **Project 1:** [AI Sales Forecast Dashboard](https://github.com/Sakshi1177/ai-sales-forecast-dashboard)  
 **Project 2:** [Superstore SQL + Tableau RED-GREEN Analysis](https://github.com/Sakshi1177/superstore-sql-tableau-analysis)
 
@@ -115,7 +115,7 @@ python free_alternatives.py
 ---
 
 ### 🔗 LinkedIn Post
-[My LinkedIn Post - 2 Projects LIVE](https://lnkd.in/p/dEWum5ca) - Project 3 coming soon!
+[My LinkedIn Post - 2 Projects LIVE](https://www.linkedin.com/in/sakshi-pradhan-778a6b31a) - Project 3 coming soon!
 
 ---
 
